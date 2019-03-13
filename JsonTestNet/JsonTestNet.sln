@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonTestNet", "JsonTestNet\JsonTestNet.csproj", "{0CB7CF4B-9127-4C16-95FE-7D1D25BD8266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CB7CF4B-9127-4C16-95FE-7D1D25BD8266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB7CF4B-9127-4C16-95FE-7D1D25BD8266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB7CF4B-9127-4C16-95FE-7D1D25BD8266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB7CF4B-9127-4C16-95FE-7D1D25BD8266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2942533-1677-4D32-8CD4-702E4F40FC7A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+﻿{"translateResult":[[{"tgt":"azure","src":"azure"}]],"errorCode":0,"type":"en2zh-CHS","smartResult":{"entries":["","n. 天蓝色；碧空\r\n","adj. 蔚蓝的\r\n"],"type":1}}
+{"translateResult":[[{"tgt":"简洁","src":"brevity"}]],"errorCode":0,"type":"en2zh-CHS","smartResult":{"entries":["","n. 简洁，简短；短暂，短促\r\n"],"type":1}}
+{"translateResult":[[{"tgt":"情况下","src":"circumstance"}]],"errorCode":0,"type":"en2zh-CHS","smartResult":{"entries":["","n. 环境，情况；事件；境遇\r\n"],"type":1}}
+{"translateResult":[[{"tgt":"争端","src":"dispute"}]],"errorCode":0,"type":"en2zh-CHS","smartResult":{"entries":["","n. 辩论；争吵\r\n","vt. 辩论；怀疑；阻止；抗拒\r\n","vi. 争论\r\n"],"type":1}}
+{"translateResult":[[{"tgt":"挪用公款","src":"embezzlement"}]],"errorCode":0,"type":"en2zh-CHS","smartResult":{"entries":["","n. 侵占；挪用；盗用\r\n"],"type":1}}
+{"translateResult":[[{"tgt":"体现","src":"embody"}]],"errorCode":0,"type":"en2zh-CHS","smartResult":{"entries":["","vt. 体现，使具体化；具体表达\r\n","n. (Embody)人名；(英)恩博迪\r\n"],"type":1}}
+{"translateResult":[[{"tgt":"杰出的","src":"eminent"}]],"errorCode":0,"type":"en2zh-CHS","smartResult":{"entries":["","adj. 杰出的；有名的；明显的\r\n"],"type":1}}
+{"translateResult":[[{"tgt":"模棱两可的","src":"equivocal"}]],"errorCode":0,"type":"en2zh-CHS","smartResult":{"entries":["","adj. 模棱两可的；可疑的\r\n"],"type":1}}
+{"translateResult":[[{"tgt":"促进","src":"facilitate"}]],"errorCode":0,"type":"en2zh-CHS","smartResult":{"entries":["","vt. 促进；帮助；使容易\r\n"],"type":1}}
+{"translateResult":[[{"tgt":"巩固","src":"fortify"}]],"errorCode":0,"type":"en2zh-CHS","smartResult":{"entries":["","vt. 加强；增强；（酒）的酒精含量；设防于\r\n","vi. 筑防御工事\r\n"],"type":1}}
+{"translateResult":[[{"tgt":"阻碍","src":"hinder"}]],"errorCode":0,"type":"en2zh-CHS","smartResult":{"entries":["","vt. 阻碍；打扰\r\n","adj. 后面的\r\n","vi. 成为阻碍\r\n"],"type":1}}
+{"translateResult":[[{"tgt":"不妥协的","src":"intransigent"}]],"errorCode":0,"type":"en2zh-CHS","smartResult":{"entries":["","n. 不妥协的人\r\n","adj. 不妥协的；不让步的\r\n"],"type":1}}
+{"translateResult":[[{"tgt":"不可挽回的","src":"irreparable"}]],"errorCode":0,"type":"en2zh-CHS","smartResult":{"entries":["","adj. 不能挽回的；不能修补的\r\n"],"type":1}}
+{"translateResult":[[{"tgt":"谎言","src":"lie"}]],"errorCode":0,"type":"en2zh-CHS","smartResult":{"entries":["","n. 谎言；位置\r\n","vi. 躺；说谎；位于；展现\r\n","vt. 谎骗\r\n"],"type":1}}
+{"translateResult":[[{"tgt":"俗气的","src":"meretricious"}]],"errorCode":0,"type":"en2zh-CHS","smartResult":{"entries":["","adj. 俗气的；娼妓的；华丽而庸俗的\r\n"],"type":1}}
+{"translateResult":[[{"tgt":"富豪统治集团","src":"plutocracy"}]],"errorCode":0,"type":"en2zh-CHS","smartResult":{"entries":["","n. 富豪统治，富豪统治集团\r\n"],"type":1}}
+{"translateResult":[[{"tgt":"子孙后代","src":"posterity"}]],"errorCode":0,"type":"en2zh-CHS","smartResult":{"entries":["","n. 子孙，后裔；后代\r\n"],"type":1}}
+{"translateResult":[[{"tgt":"声望","src":"prestige"}]],"errorCode":0,"type":"en2zh-CHS","smartResult":{"entries":["","n. 威望，声望；声誉\r\n","n. (Prestige)人名；(英)普雷斯蒂奇\r\n","adj. 令人敬仰的；受尊重的；贵重的\r\n"],"type":1}}
+{"translateResult":[[{"tgt":"恢复","src":"rehabilitate"}]],"errorCode":0,"type":"en2zh-CHS","smartResult":{"entries":["","vt. 使康复；使恢复名誉；使恢复原状\r\n","vi. 复兴；复权；恢复正常生活\r\n"],"type":1}}
+{"translateResult":[[{"tgt":"动荡","src":"turmoil"}]],"errorCode":0,"type":"en2zh-CHS","smartResult":{"entries":["","n. 混乱，骚动\r\n"],"type":1}}
+{"translateResult":[[{"tgt":"合资企业","src":"venture"}]],"errorCode":0,"type":"en2zh-CHS","smartResult":{"entries":["","n. 企业；风险；冒险\r\n","vt. 敢于\r\n","vi. 冒险；投机\r\n"],"type":1}}

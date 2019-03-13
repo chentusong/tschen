@@ -1,0 +1,8 @@
+C:\Users\chent\Desktop\Code\JsonTestNet\JsonTestNet\bin\Debug\JsonTestNet.exe.config
+C:\Users\chent\Desktop\Code\JsonTestNet\JsonTestNet\bin\Debug\JsonTestNet.exe
+C:\Users\chent\Desktop\Code\JsonTestNet\JsonTestNet\bin\Debug\JsonTestNet.pdb
+C:\Users\chent\Desktop\Code\JsonTestNet\JsonTestNet\obj\Debug\JsonTestNet.csprojAssemblyReference.cache
+C:\Users\chent\Desktop\Code\JsonTestNet\JsonTestNet\obj\Debug\JsonTestNet.csproj.CoreCompileInputs.cache
+C:\Users\chent\Desktop\Code\JsonTestNet\JsonTestNet\obj\Debug\JsonTestNet.csproj.CopyComplete
+C:\Users\chent\Desktop\Code\JsonTestNet\JsonTestNet\obj\Debug\JsonTestNet.exe
+C:\Users\chent\Desktop\Code\JsonTestNet\JsonTestNet\obj\Debug\JsonTestNet.pdb
